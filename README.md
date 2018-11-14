@@ -1,4 +1,4 @@
-# Nested_C-V
+# PPG-Image-Classifier
 For the paper: An Interpretable Machine Vision Approach to Human Activity Recognition using Photoplethysmograph Sensor Data
 
 The Retrain_Transfer_Learning notebook is for retraining the image classifier. You must edit your own directories prior to using
